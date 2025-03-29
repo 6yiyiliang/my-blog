@@ -32,7 +32,7 @@ export default hopeTheme({
   // 博客相关
   blog: {
     avatar: "/my.jpg",
-    description: "一个Java开发者or前端开发者",
+    description: "一个Java开发者or微信小程序开发者",
     intro: "/intro.html",
     medias: {
       Baidu: "https://example.com",
